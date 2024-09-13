@@ -157,6 +157,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 [![An image of @piyusht24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyusht24)](https://holopin.io/@piyusht24)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-t24&theme=react-dark"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Piyush-t24.Piyush-t24.svg)
 
